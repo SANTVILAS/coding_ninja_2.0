@@ -1,0 +1,22 @@
+package lecture4_functions_demo;
+
+
+
+public class Ncr {
+
+	
+	
+	
+	public static void main(String[] args) {
+
+		 int num =1;
+		for(int i=1;i<=n;i++) {
+			num = num*i;
+			
+		}
+	
+		int ans =num/den1*den2;
+		
+	}
+	
+}
